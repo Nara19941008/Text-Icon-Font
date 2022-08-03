@@ -1,0 +1,41 @@
+.img{
+    background-color: rgb(197, 91, 59);
+    width: 180px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0px 20% 0% 20%;
+    margin: 100px 100px 0px 100px;
+}
+.img i{
+    color: aliceblue;
+    font-size: 70px;
+}
+.main{
+    margin: 100px;
+    background-color: white;
+    border: 3px dashed rgba(214, 91, 54, 0.911);
+    width: 380px;
+    height: 530px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+h1{
+    font-size: 35px;
+    width: 250px;
+    height: 90px;
+    margin-left: 60px;
+    text-align: center;
+}
+span{
+    font-size: 20px;
+    border: 10px;
+    font-style: italic;
+    text-align: justify;
+}
